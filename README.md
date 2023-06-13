@@ -1,5 +1,5 @@
 # Hi, I'm Eunice 👋
-<img src="https://drive.google.com/uc?export=view&id=1tpFh4dcCVqOwQQ1ATKR5_wz4RIIyvcLj
+<img src="https://s3.us-east-2.amazonaws.com/park-hopper-2023/512640416d004d46a28163c90a27bad9.jpeg
 " height="400">
 
 ### I'm a full stack software engineer with a passion for building apps that provide a great experience. I have a background in UX research and science. I love learning new skills and taking adventures.
