@@ -1,13 +1,13 @@
-# Hi, I'm Eunice 👋
-<img src="https://s3.us-east-2.amazonaws.com/park-hopper-2023/512640416d004d46a28163c90a27bad9.jpeg" height="400">
+<img align="left" style="margin-right: 1.5rem" src="./NZ.jpeg">
+<h1 style="border-bottom: none"> Hi, I'm Eunice 👋</h1>
 
-### I'm a full stack software engineer with a passion for building apps that provide a great experience. I have a background in UX research and science. I love learning new skills and taking adventures.
+### I'm a full stack software engineer with a passion for building apps that provide a great experience. I have a background in UX research and science. I love learning new skills and finding my way through tight squeezes.
 <br>
 <br>
+
 
 ### Proficiencies
-<img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src="
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -22,3 +22,5 @@ https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoC
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
