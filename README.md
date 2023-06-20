@@ -1,4 +1,4 @@
-<img align="left" style="margin-right: 1.5rem" src="./NZ.jpeg">
+<img align="right" style="margin-left: 1.5rem" src="./NZ.jpeg">
 <h1 style="border-bottom: none"> Hi, I'm Eunice 👋</h1>
 
 ### I'm a full stack software engineer with a passion for building apps that provide a great experience. I have a background in UX research and science. I love learning new skills and finding my way through tight squeezes.
