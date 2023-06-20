@@ -5,6 +5,7 @@
 <br>
 <br>
 
+[![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunicey&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Proficiencies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
