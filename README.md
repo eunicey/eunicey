@@ -1,7 +1,7 @@
-<img align="right" style="margin-left: 1.5rem" src="./NZ.jpeg">
+<img align="right" style="margin-left: 1.5rem" src="./NZ.jpeg" alt="Splunking in New Zealand">
 <h1 style="border-bottom: none"> Hi, I'm Eunice 👋</h1>
 
-### I'm a full stack software engineer who likes building apps that provide a great experience. With my background in UX research and science, I have a knack for making complicated data easy to digest. I love learning new tech and gaining new skills.
+<h3> I'm a full stack software engineer who likes building apps that provide a great experience. With my background in UX research and science, I have a knack for making complicated data easy to digest. I love learning new tech and gaining new skills.</h3>
 <br>
 <br>
 
