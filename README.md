@@ -2,7 +2,7 @@
 
 **Hi, I'm Eunice 👋**
 
-I'm a full stack software engineer who likes building apps that provide a great experience. With my background in UX research and science, I have a knack for making complicated data easy to visualize and digest. I love learning new tech and gaining new skills.
+I'm a full stack software engineer who is passionate about solving hard problems and doing right by users. I never get tired of learning new tech and gaining new skills.
 <br>
 <br>
 
