@@ -2,13 +2,11 @@
 
 **Hi, I'm Eunice 👋**
 
-I'm a full stack software engineer who is passionate about solving hard problems and doing right by users. I never get tired of learning new tech and gaining new skills.
+I'm a full stack software engineer who is passionate about solving hard problems and doing right by users. I never get tired of learning new tech and gaining new skills. I'm proficient in the following:
 <br>
 <br>
 
 <!-- [![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunicey&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-**I'm proficient in the following...** 
 
 Languages:
 
