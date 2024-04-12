@@ -1,4 +1,4 @@
-<img align="right" style="margin-left: 1.5rem" src="./NZ.jpeg" alt="Splunking in New Zealand">
+
 
 **Hi, I'm Eunice 👋**
 
@@ -17,6 +17,7 @@ Languages:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 Frameworks, Platforms, & Libraries:
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
